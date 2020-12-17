@@ -2,6 +2,16 @@
 
 **Nhóm 11**
 
+## Slide báo cáo
+
+File: [project_report.pdf](./project_report.pdf)
+
+Nội dung:
+
+- Mô tả về phương pháp làm sạch dữ liệu, thu thập thông tin và visualize dữ liệu.
+- Mô tả về hai thuật toán sử dụng: TFIDF và SVM.
+- Kết quả thử nghiệm và giải thich.
+
 ## Train mô hình dự đoán
 
 File: [topic_detection_train.ipynb](./topic_detection_train.ipynb)
